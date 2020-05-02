@@ -1,6 +1,6 @@
-README.md# _javaStuff
+# xxjpa
 
 ### 02.05.2020
 ```
-JavaStuff sollte in Github gelöscht werden
+uebung
 ```
